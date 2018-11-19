@@ -1,0 +1,50 @@
+﻿生成启动时间为 2018-10-15 20:45:18。
+     1>项目“F:\代码\FILE\配置文档读写\配置文档读写.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visual studio 2013install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt deal.c menu.c
+         menu.c
+     1>f:\代码\file\配置文档读写\menu.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\代码\file\配置文档读写\menu.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\代码\file\配置文档读写\menu.c(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>f:\代码\file\配置文档读写\menu.c(51): warning C4013: “exit”未定义；假设外部返回 int
+         deal.c
+     1>f:\代码\file\配置文档读写\deal.c(19): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\string.h(195) : 参见“strncpy”的声明
+     1>f:\代码\file\配置文档读写\deal.c(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\代码\file\配置文档读写\deal.c(49): warning C4013: “malloc”未定义；假设外部返回 int
+     1>f:\代码\file\配置文档读写\deal.c(51): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\代码\file\配置文档读写\deal.c(63): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(304) : 参见“sscanf”的声明
+     1>f:\代码\file\配置文档读写\deal.c(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\代码\file\配置文档读写\deal.c(69): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\代码\file\配置文档读写\deal.c(73): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\代码\file\配置文档读写\deal.c(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>f:\代码\file\配置文档读写\deal.c(80): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\string.h(118) : 参见“strcat”的声明
+     1>f:\代码\file\配置文档读写\deal.c(83): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\代码\file\配置文档读写\deal.c(99): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\代码\file\配置文档读写\deal.c(111): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio 2013install\vc\include\stdio.h(304) : 参见“sscanf”的声明
+         正在生成代码...
+     1>f:\代码\file\配置文档读写\deal.c(94): warning C4715: “deal_write_file”: 不是所有的控件路径都返回值
+       Link:
+         F:\visual studio 2013install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\代码\FILE\Debug\配置文档读写.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\代码\FILE\Debug\配置文档读写.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\代码\FILE\Debug\配置文档读写.lib" /MACHINE:X86 Debug\deal.obj
+         Debug\main.obj
+         Debug\menu.obj
+         配置文档读写.vcxproj -> F:\代码\FILE\Debug\配置文档读写.exe
+     1>已完成生成项目“F:\代码\FILE\配置文档读写\配置文档读写.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.60

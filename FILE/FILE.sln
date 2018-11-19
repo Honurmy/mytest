@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "四则运算", "FILE\FILE.vcxproj", "{335362A0-850A-4E0F-BCE7-9DDED2ABC1A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "电子词典", "电子词典\电子词典.vcxproj", "{F2943774-E008-43A3-B156-AE719D0D984C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件加密解密", "文件加密解密\文件加密解密.vcxproj", "{96F3C08E-4AB6-410E-8158-F9BAFCCFC90B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "配置文档读写", "配置文档读写\配置文档读写.vcxproj", "{E8D78AFC-15D9-4F92-8BAC-5C70CD657897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335362A0-850A-4E0F-BCE7-9DDED2ABC1A5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{335362A0-850A-4E0F-BCE7-9DDED2ABC1A5}.Debug|Win32.Build.0 = Debug|Win32
+		{335362A0-850A-4E0F-BCE7-9DDED2ABC1A5}.Release|Win32.ActiveCfg = Release|Win32
+		{335362A0-850A-4E0F-BCE7-9DDED2ABC1A5}.Release|Win32.Build.0 = Release|Win32
+		{F2943774-E008-43A3-B156-AE719D0D984C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F2943774-E008-43A3-B156-AE719D0D984C}.Debug|Win32.Build.0 = Debug|Win32
+		{F2943774-E008-43A3-B156-AE719D0D984C}.Release|Win32.ActiveCfg = Release|Win32
+		{F2943774-E008-43A3-B156-AE719D0D984C}.Release|Win32.Build.0 = Release|Win32
+		{96F3C08E-4AB6-410E-8158-F9BAFCCFC90B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{96F3C08E-4AB6-410E-8158-F9BAFCCFC90B}.Debug|Win32.Build.0 = Debug|Win32
+		{96F3C08E-4AB6-410E-8158-F9BAFCCFC90B}.Release|Win32.ActiveCfg = Release|Win32
+		{96F3C08E-4AB6-410E-8158-F9BAFCCFC90B}.Release|Win32.Build.0 = Release|Win32
+		{E8D78AFC-15D9-4F92-8BAC-5C70CD657897}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8D78AFC-15D9-4F92-8BAC-5C70CD657897}.Debug|Win32.Build.0 = Debug|Win32
+		{E8D78AFC-15D9-4F92-8BAC-5C70CD657897}.Release|Win32.ActiveCfg = Release|Win32
+		{E8D78AFC-15D9-4F92-8BAC-5C70CD657897}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
